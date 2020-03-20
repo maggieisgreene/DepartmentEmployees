@@ -1,0 +1,4 @@
+C:\Users\Maggie Greene\Workspace\C-Sharp\Exercises\DepartmentsEmployees\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp3.1\DepartmentsEmployees.exe
+C:\Users\Maggie Greene\Workspace\C-Sharp\Exercises\DepartmentsEmployees\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp3.1\DepartmentsEmployees.csprojAssemblyReference.cache
+C:\Users\Maggie Greene\Workspace\C-Sharp\Exercises\DepartmentsEmployees\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp3.1\DepartmentsEmployees.AssemblyInfoInputs.cache
+C:\Users\Maggie Greene\Workspace\C-Sharp\Exercises\DepartmentsEmployees\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp3.1\DepartmentsEmployees.AssemblyInfo.cs

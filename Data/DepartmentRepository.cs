@@ -1,10 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using Microsoft.Data.SqlClient;
+using DepartmentsEmployees.Models;
 
 namespace DepartmentsEmployees.Data
 {
-    class Class1
+    public class DepartmentRepository
     {
+        public SqlConnection Connection
+        {
+            get
+            {
+                // This is "address" of the database
+                string _connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=DepartmentsEmployees;Integrated Security=True";
+                return new SqlConnection(_connectionString);
+            }
+        }
+
     }
 }

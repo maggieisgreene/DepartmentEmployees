@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DepartmentsEmployees.Data
 {
-    class Class1
+    class EmployeeRepository
     {
     }
 }

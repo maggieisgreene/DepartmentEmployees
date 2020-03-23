@@ -4,7 +4,10 @@ using System.Text;
 
 namespace DepartmentsEmployees.Models
 {
-    class Class1
+    // C# representation of the Department table
+    public class Department
     {
+        public int Id { get; set; }
+        public string DeptName { get; set; }
     }
 }
